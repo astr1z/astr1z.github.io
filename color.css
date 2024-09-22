@@ -4,6 +4,14 @@
     font-family: 'Courier New', Courier, monospace;
     font-size:xx-large;
     }
+.h2title{
+        color : rgb(0, 0, 0);
+        font-family: 'Courier New', Courier, monospace;
+        position: absolute;
+        top: 250px;
+        left: 50px;
+        font-size:larger;
+        }
 
 .text1{
     position: absolute;
