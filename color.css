@@ -1,0 +1,43 @@
+.h1title{
+    color : rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:xx-large;
+    }
+
+.text1{
+    position: absolute;
+    top: 800px;
+    left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+        color: rgb(0, 0, 0)
+   }
+.picture{
+    position: absolute;
+    top: 300px;   /* Distance from the top of the site */
+    left: 1400px;
+}
+.picture2{
+    position: absolute;
+    top: 130px;   /* Distance from the top of the site */
+    left: 850px;
+}
+
+.picture3{
+    position: absolute;
+    top: 550px;   /* Distance from the top of the site */
+    left: 850px;
+}
+
+.text2{
+    position: absolute;
+    top: 300px;
+    left: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(41, 43, 44);
+}
+
